@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerView - Selection Toast</string>
+    <string name="my_list_item">Recycler View Demo</string>
+</resources>
